@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 1fff7a0914485f24e91382cb8b58d4ec
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cubePrefabVar: {fileID: 8343732215836164383, guid: c6a74dfa9ad8d844eaaee1720c96f53d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
